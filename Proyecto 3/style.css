@@ -1,0 +1,7 @@
+img {height: 100px;width: 108;} 
+h1 {text-align:center;background-color: rgb(156, 151, 151); color:rgb(58, 58, 148) ;}
+h2 {background-color: rgb(156, 151, 151); color:rgb(58, 58, 148) ;}
+.titulo {font-style: italic; font-weight: bold;}
+footer {text-align: center;height: 50px;line-height: 50px;color:white; background-color: rgb(34, 122, 138)}
+.img {height: 13PX; width:15px;}
+header,body {font-family: 'Oswald', sans-serif; font-weight: 500;}
